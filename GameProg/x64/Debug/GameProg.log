@@ -1,0 +1,13 @@
+﻿SceneMgr.obj : error LNK2019: 未解決の外部シンボル "void __cdecl Over_Initialize(void)" (?Over_Initialize@@YAXXZ) が関数 "void __cdecl SceneMgr_InitializeModule(enum eScene)" (?SceneMgr_InitializeModule@@YAXW4eScene@@@Z) で参照されました
+SceneMgr.obj : error LNK2019: 未解決の外部シンボル "void __cdecl Over_Finalize(void)" (?Over_Finalize@@YAXXZ) が関数 "void __cdecl SceneMgr_FinalizeModule(enum eScene)" (?SceneMgr_FinalizeModule@@YAXW4eScene@@@Z) で参照されました
+SceneMgr.obj : error LNK2019: 未解決の外部シンボル "void __cdecl Over_Update(void)" (?Over_Update@@YAXXZ) が関数 "void __cdecl SceneMgr_Update(void)" (?SceneMgr_Update@@YAXXZ) で参照されました
+SceneMgr.obj : error LNK2019: 未解決の外部シンボル "void __cdecl Over_Draw(void)" (?Over_Draw@@YAXXZ) が関数 "void __cdecl SceneMgr_Draw(void)" (?SceneMgr_Draw@@YAXXZ) で参照されました
+SceneMgr.obj : error LNK2019: 未解決の外部シンボル "void __cdecl Clear_Initialize(void)" (?Clear_Initialize@@YAXXZ) が関数 "void __cdecl SceneMgr_InitializeModule(enum eScene)" (?SceneMgr_InitializeModule@@YAXW4eScene@@@Z) で参照されました
+SceneMgr.obj : error LNK2019: 未解決の外部シンボル "void __cdecl Clear_Finalize(void)" (?Clear_Finalize@@YAXXZ) が関数 "void __cdecl SceneMgr_FinalizeModule(enum eScene)" (?SceneMgr_FinalizeModule@@YAXW4eScene@@@Z) で参照されました
+SceneMgr.obj : error LNK2019: 未解決の外部シンボル "void __cdecl Clear_Update(void)" (?Clear_Update@@YAXXZ) が関数 "void __cdecl SceneMgr_Update(void)" (?SceneMgr_Update@@YAXXZ) で参照されました
+SceneMgr.obj : error LNK2019: 未解決の外部シンボル "void __cdecl Clear_Draw(void)" (?Clear_Draw@@YAXXZ) が関数 "void __cdecl SceneMgr_Draw(void)" (?SceneMgr_Draw@@YAXXZ) で参照されました
+SceneMgr.obj : error LNK2019: 未解決の外部シンボル "void __cdecl Menu_Initialize(void)" (?Menu_Initialize@@YAXXZ) が関数 "void __cdecl SceneMgr_InitializeModule(enum eScene)" (?SceneMgr_InitializeModule@@YAXW4eScene@@@Z) で参照されました
+SceneMgr.obj : error LNK2019: 未解決の外部シンボル "void __cdecl Menu_Finalize(void)" (?Menu_Finalize@@YAXXZ) が関数 "void __cdecl SceneMgr_FinalizeModule(enum eScene)" (?SceneMgr_FinalizeModule@@YAXW4eScene@@@Z) で参照されました
+SceneMgr.obj : error LNK2019: 未解決の外部シンボル "void __cdecl Menu_Update(void)" (?Menu_Update@@YAXXZ) が関数 "void __cdecl SceneMgr_Update(void)" (?SceneMgr_Update@@YAXXZ) で参照されました
+SceneMgr.obj : error LNK2019: 未解決の外部シンボル "void __cdecl Menu_Draw(void)" (?Menu_Draw@@YAXXZ) が関数 "void __cdecl SceneMgr_Draw(void)" (?SceneMgr_Draw@@YAXXZ) で参照されました
+C:\Users\harut\OneDrive\ドキュメント\GameCreate2d\GameProg\x64\Debug\GameProg.exe : fatal error LNK1120: 12 件の未解決の外部参照
